@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ken Huang</h1>
 <h3 align="center">A passionate data scientist enthusiast from California</h3>
 
-- 🔭 I’m currently working on **AI Projects and websites**
+- 🔭 I’m currently working on **AI Projects, apps, and websites**
 
-- 🌱 I’m currently learning **AI and web development**
+- 🌱 I’m currently learning **AI, app and web development**
 
 - 📫 How to reach me **kenhuangsy@gmail.com**
 
