@@ -7,5 +7,3 @@
 
 - 📫 How to reach me **kenhuangsy@gmail.com**
 
-- ⚡ Fun fact **I am currently in high school**
-
