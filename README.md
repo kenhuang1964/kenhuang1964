@@ -7,3 +7,5 @@
 
 - 📫 How to reach me **kenhuangsy@gmail.com**
 
+- Competitive Programming: USACO Silver
+
