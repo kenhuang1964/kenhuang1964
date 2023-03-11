@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI Projects and web apps**
 
-- 🌱 I’m currently learning **AI and full stack development**
+- 🌱 I’m currently learning **AI and backend development**
 
 - 📫 How to reach me **kenhuangsy@gmail.com**
 
