@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ken Huang</h1>
 <h3 align="center">whoami? I am a passionate AI enthusiast from California</h3>
 
-- 🔭 I’m currently working on **AI Projects and web apps**
+- 🔭 I’m currently working on **Multi-modal development and reading research papers**
 
-- 🌱 I’m currently learning **AI and web development**
+- 🌱 I’m currently learning **CV and NLP**
 
 - 📫 How to reach me **kenhuangsy@gmail.com**
 
