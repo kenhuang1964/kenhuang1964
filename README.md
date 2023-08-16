@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Multi-modal development**
 
-- 🌱 I’m currently learning **CV and NLP**
-
 - Competitive Programming: USACO Silver
 
 
