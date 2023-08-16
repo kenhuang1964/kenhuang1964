@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **CV and NLP**
 
-- 📫 How to reach me **kenhuangsy@gmail.com**
-
 - Competitive Programming: USACO Silver
 
 
